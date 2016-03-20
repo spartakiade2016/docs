@@ -4,15 +4,8 @@ Spartakiade 2016
 
 ## Quicklinks
 
-[Consul UI](http://???.???.???.001:8500/ui/)
-
-### Our private cloud infrastructure
-
-|Hostname   |IP address         |Memory   |Disk   |
-|:----------|:------------------|:--------|:------|
-|node-1     |???.???.???.001    |? GB     |? GB   |
-|node-2     |???.???.???.002    |? GB     |? GB   |
-|node-3     |???.???.???.002    |? GB     |? GB   |
+[Consul UI](http://46.101.251.23:8500/ui/)
+[Discovery Explorer](http://discovery-explorer.63ae326f.svc.dockerapp.io)
 
 ### How-To ...
 
