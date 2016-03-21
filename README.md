@@ -1,8 +1,12 @@
 # Workshop: Micro Services with NodeJS and Docker
 
-Spartakiade 2016
+## Spartakiade 2016
 
 ![mission accomplished](CeDg6w9W0AQCP52.jpg)
+
+## Designs
+
+* [Contract Designs](contracts.md)
 
 ## Quicklinks
 
@@ -14,4 +18,3 @@ Spartakiade 2016
 * [Setup Consul](how-to-setup-consul.md)
 * [Setup Registrator](how-to-setup-registrator.md)
 * [Search MusicBrainz](how-to-search-musicbrainz.md)
-
